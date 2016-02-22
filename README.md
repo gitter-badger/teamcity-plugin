@@ -1,5 +1,7 @@
 # TeamCity Automate Website Plugin
 
+[![Join the chat at https://gitter.im/automate-website/teamcity-plugin](https://badges.gitter.im/automate-website/teamcity-plugin.svg)](https://gitter.im/automate-website/teamcity-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/website.automate/teamcity-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/website.automate/teamcity-plugin) [![Build Status](https://travis-ci.org/automate-website/teamcity-plugin.svg?branch=master)](https://travis-ci.org/automate-website/teamcity-plugin) [![codecov.io](https://codecov.io/github/automate-website/teamcity-plugin/coverage.svg?branch=master)](https://codecov.io/github/automate-website/teamcity-plugin?branch=master) [![Gitter](https://badges.gitter.im/automate-website/teamcity-plugin.svg)](https://gitter.im/automate-website/teamcity-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Short Description
